@@ -1,0 +1,22 @@
+CharacterPlayed, MovieID, ActorID
+'Lee Abbott', 1, 1
+'Evelyn Abbott', 1, 2
+'Bruce Wayne', 2, 3
+'Joker', 2, 4
+'Alfred', 2, 5
+'Lucius Fox', 2, 6
+'Peter Parker', 3, 7
+'The Vulture', 3, 8
+'Tony Stark', 3, 9
+'Aunt May', 3, 10
+'Happy Hogan', 3, 11
+'Tony Stark', 4, 12
+'Obadiah Stane', 4, 13
+'Pepper Potts', 4, 14
+'Happy Hogan', 4, 15
+'Authur Fleck', 5, 16
+'Murray Franklin', 5, 17
+'Lorraine Broughton', 6, 18
+'David Percival', 6, 19
+'Spyglass', 6, 20
+'Emmett Kurzfeld', 6, 21

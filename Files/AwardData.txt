@@ -1,0 +1,7 @@
+AwardName, MovieID, ActorID
+'Oustanding Performance by a Female Actor in a Supporting Role', 1, 2  
+'Oscar in Best Performance by an Actor in a Supporting Role', 2, 4
+'Saturn Award for Best Performance by a Younger Actor', 3, 7
+'Oscar in Best Performance by an Actor in a Leading Role', 4, 14
+'Golden Globe in Best Performance by an Actor in a Motion Picture - Drama', 6, 14
+'Best Actress - Audience Award', 5, 16

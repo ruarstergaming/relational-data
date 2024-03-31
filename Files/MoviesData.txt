@@ -1,0 +1,7 @@
+Title, Plot, ReleaseDate, RunTime, Ratings
+'A Quiet Place', 'In a post-apocalyptic world a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.', '05/04/2018', '1:31:00', 7.5
+'The Dark Knight', 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.', '24/07/2008', '2:32:00', 9
+'Spider-Man Homecoming', 'Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man and finds himself on the trail of a new menace prowling the skies of New York City.', '05/07/2017', '2:13:00', 7.4
+'Iron Man', 'After being held captive in an Afghan cave billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.', '02/05/2008', '2:06:00', 7.9 
+'Atomic Blond', 'An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.', '28/07/2017', '1:55:00', 6.7
+'Joker', 'In Gotham City mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker', '04/10/2019', '2:02:00', 8.4
